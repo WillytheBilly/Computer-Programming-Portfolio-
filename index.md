@@ -1,5 +1,7 @@
 ## Welcome to William's Computer Programming Portfolio
 
+![Typing Test Image](https://github.com/WillytheBilly/Computer-Programming-Portfolio-/blob/gh-pages/Images/Screenshot%202020-08-27%20at%207.50.24%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/WillytheBilly/Computer-Programming-Portfolio-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
